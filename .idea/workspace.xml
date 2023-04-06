@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65d1a6e8-2cf0-4a1d-b0a6-4626e491d2c2" name="Default Changelist" comment="" />
+    <list default="true" id="65d1a6e8-2cf0-4a1d-b0a6-4626e491d2c2" name="Default Changelist" comment="12">
+      <change afterPath="$PROJECT_DIR$/src/main/java/nuc/ss/edu/ArrayList_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nuc/ss/edu/Collection_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nuc/ss/edu/Collection_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nuc/ss/edu/Collection_remove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nuc/ss/edu/car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nuc/ss/edu/myCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/commons/commons.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/commons/commons.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,8 +26,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -47,6 +56,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -188,7 +200,6 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/templates/emp" />
@@ -221,7 +232,20 @@
       <recent name="F:\jsp_code\idea2019\SpringBoot\springboot-03-web\src\main\resources\templates" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.myCollection">
+    <configuration name="myCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nuc.ss.edu.myCollection" />
+      <module name="springboot-03-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nuc.ss.edu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Springboot03WebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springboot-03-web" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="nuc.ss.Springboot03WebApplication" />
@@ -229,6 +253,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.myCollection" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -248,8 +277,25 @@
       <workItem from="1680336356033" duration="1063000" />
       <workItem from="1680341515699" duration="11616000" />
       <workItem from="1680489360109" duration="24906000" />
-      <workItem from="1680615056745" duration="599000" />
+      <workItem from="1680615056745" duration="1588000" />
+      <workItem from="1680754152184" duration="843000" />
+      <workItem from="1680756630932" duration="6361000" />
     </task>
+    <task id="LOCAL-00001" summary="12">
+      <created>1680673214147</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680673214147</updated>
+    </task>
+    <task id="LOCAL-00002" summary="12">
+      <created>1680673221107</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680673221107</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -345,6 +391,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/../../.." />
     </ignored-roots>
+    <MESSAGE value="12" />
+    <option name="LAST_COMMIT_MESSAGE" value="12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
